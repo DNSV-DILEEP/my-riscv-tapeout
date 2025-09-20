@@ -1,0 +1,12 @@
+# make sure folder exists
+mkdir -p docs/week-0/screenshots
+
+# copy your images into that folder
+cp ~/Pictures/docker_setup.png docs/week-0/screenshots/
+cp ~/Pictures/yosys_run.png docs/week-0/screenshots/
+
+# commit to repo
+git add docs/week-0/screenshots/*
+git commit -m "Add Week-0 screenshots"
+git push
+
