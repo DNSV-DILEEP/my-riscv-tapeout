@@ -1,0 +1,24 @@
+# 📅 Week 0 – Environment Setup & Tool Installation
+
+## 🎯 Objectives
+- Install and configure the required open-source EDA tools.
+- Verify basic functionality of each tool.
+- Document the installation process with logs/screenshots.
+
+---
+
+## 🛠️ Tools Installed
+- **Icarus Verilog (iverilog)** → Verilog simulator  
+- **GTKWave** → Waveform viewer  
+- **Yosys** → Logic synthesis  
+- **OpenLane (Docker method)** → RTL-to-GDSII flow  
+- **SkyWater 130nm PDK** (checked via container / optional local clone)
+
+---
+
+## ✅ Steps Followed
+1. Installed prerequisites (`docker`, `git`, `make`, `python3`).
+2. Cloned the repository and initialized submodules:
+   ```bash
+   git clone --recurse-submodules https://github.com/<your-username>/openlane-setup-myflow.git
+   cd openlane-setup-myflow
