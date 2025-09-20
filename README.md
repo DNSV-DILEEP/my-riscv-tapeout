@@ -12,12 +12,12 @@ It contains weekly updates, RTL design files, simulation scripts, synthesis outp
 | Week | Task | Status | Notes |
 |------|------|--------|-------|
 | Week 0 | Environment setup (Icarus Verilog, Yosys, GTKWave, OpenLane) | ✅ Done | Added screenshots in `docs/week0/` |
-| Week 1 | RTL design + testbench creation | ⏳ In Progress | |
-| Week 2 | Simulation and waveform analysis | ⏳ Pending | |
-| Week 3 | Synthesis with Yosys | ⏳ Pending | |
-| Week 4 | Floorplanning and placement (OpenLane) | ⏳ Pending | |
-| Week 5 | Routing, STA, and reports | ⏳ Pending | |
-| Week 6 | Final GDSII generation for tapeout | ⏳ Pending | |
+#| Week 1 | RTL design + testbench creation | ⏳ In Progress | |
+#| Week 2 | Simulation and waveform analysis | ⏳ Pending | |
+#| Week 3 | Synthesis with Yosys | ⏳ Pending | |
+#| Week 4 | Floorplanning and placement (OpenLane) | ⏳ Pending | |
+#| Week 5 | Routing, STA, and reports | ⏳ Pending | |
+#| Week 6 | Final GDSII generation for tapeout | ⏳ Pending | |
 
 ---
 
